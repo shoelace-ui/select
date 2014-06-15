@@ -8,8 +8,9 @@
  * Apply `textarea` default styles.
  */
 
-// Make multiple select elements height not fixed
+select
+  @extend $input--control
+
 select[multiple]
 select[size]
-  height auto
-  @extend $input--control
+  height auto // make multiple select elements height not fixed
