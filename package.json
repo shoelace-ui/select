@@ -1,12 +1,12 @@
 {
   "name": "shoelace-ui-select",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Default `select` styles",
   "repository": "https://github.com/shoelace-ui/select.git",
-  "keywords": ["shoelace", "text", "select", "form"],
+  "keywords": ["shoelace", "input", "text", "select", "form"],
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "license": "MIT",
   "dependencies": {
-    "shoelace-ui-input": "git+https://github.com/shoelace-ui/input.git"
+    "shoelace-ui-input": "^0.1.0"
   }
 }

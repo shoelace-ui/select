@@ -7,3 +7,7 @@ Default `select` styles.
 ```stylus
 @require 'shoelace-ui-select'
 ```
+
+## License
+
+MIT
